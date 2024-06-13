@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hemarystion.github.io/sitemap.html
+Sitemap: https://hemarystion.github.io/app/sitemap.html
+Sitemap: https://hemarystion.github.io/assets/sitemap.html
+Sitemap: https://hemarystion.github.io/css/sitemap.html
+Sitemap: https://hemarystion.github.io/includes/sitemap.html
+Sitemap: https://hemarystion.github.io/item/sitemap.html
+Sitemap: https://hemarystion.github.io/src/sitemap.html
